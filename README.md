@@ -1,4 +1,3 @@
-# run-buddy
 # RUN BUDDY
 An ongoing instructional learning based page to track and demonstrate skill development.
 An introduction to basic HTML and advanced CSS.
@@ -14,4 +13,6 @@ A website that offers fitness training services.
 https://lerantino.github.io/run-buddy/
 
 ## Contribution
-Made with love by [Hannah]
+Made with ❤️ by [Hannah]
+
+### ©️2019 Run Buddy, Inc 
