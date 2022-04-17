@@ -1,5 +1,5 @@
-# RUN BUDDY INC.
-An ongoing instructional learning based page to track and demonstrate skill development.
+# RUN BUDDY, INC.
+git An ongoing instructional learning based page to track and demonstrate skill development.
 An introduction to basic HTML and advanced CSS.
 
 ## Purpose
